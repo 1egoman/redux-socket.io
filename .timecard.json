@@ -1,8 +1,0 @@
-{
-  "reportFormat": "default",
-  "hourlyRate": 0,
-  "card": [],
-  "name": "redux-socket.io",
-  "tagline": "An opinionated connector between socket.io and redux",
-  "primaryColor": "#7b64ff"
-}
