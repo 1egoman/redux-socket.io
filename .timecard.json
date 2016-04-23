@@ -1,0 +1,20 @@
+{
+  "reportFormat": "default",
+  "hourlyRate": 50,
+  "card": [
+    {
+      "date": "Fri Apr 22 2016",
+      "times": [
+        {
+          "start": "20:00:00",
+          "by": "1egoman",
+          "end": "21:00:00"
+        }
+      ]
+    }
+  ],
+  "name": "Cooleo",
+  "tagline": "My cool app.",
+  "primaryColor": "#d45500",
+  "secondaryColor": "#007fd4"
+}
